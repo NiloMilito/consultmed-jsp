@@ -57,6 +57,7 @@ public class Constantes {
 	public static final String USUARIO = " usuário";
 	public static final String USUARIO_SUCESSO = "  cadastrado(a) com sucesso";
 	public static final String USUARIO_REMOVIDO = "  usuário removido com sucesso";
+	public static final String MEDICO_REMOVIDO = " médico removido com sucesso";
 	public static final String USUARIO_EDITADO = "  alterado(a) com sucesso";
 	
 	//MENSAGENS DA TELA USUARIO
@@ -67,8 +68,10 @@ public class Constantes {
 	public static final String CONTATOS = "/admin/pages/contatos/list_contatos.jsp";
 	public static final String ADD_CONTATOS = "/admin/pages/contatos/add_contatos.jsp";
 	
-	public static final String USUARIOS = "/admin/pages/usuarios/list_usuarios.jsp";
+	public static final String USUARIOS = "/admin/pages/usuarios/list_usuarios.jsp";	
 	public static final String ADD_USUARIOS = "/admin/pages/usuarios/add_usuarios.jsp";
+	public static final String MEDICOS = "/admin/pages/medicos/list_medicos.jsp";
+	public static final String ADD_MEDICOS = "/admin/pages/medicos/add_medicos.jsp";
 	
 	public static final String CADASTRE_SE = "cadastrese.jsp";
 	public static final String SOLICITACOES = "solicitacoes.jsp";
